@@ -1,0 +1,19 @@
+.odd{
+    
+    background-color: lightcoral;
+    font-family: verdana, "Dejavu Sans", sans-serif;
+}
+
+
+#n2{
+font-size: 36px;
+color: blue;
+}
+.n3{
+    font-size: 24px;
+}
+#n4{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
